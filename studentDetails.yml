@@ -1,0 +1,15 @@
+---
+- studentdetails:
+   - name: raj
+     phno: 8989898998
+     address: KPHB
+
+   - name: sai
+     phno: 8589585
+     address: KPHB
+
+   - name: maha
+     phno: 8989898
+     address: KPHB
+     
+   
